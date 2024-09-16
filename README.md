@@ -74,3 +74,6 @@ Use the following steps to cluster the cryptocurrencies for the best value for k
   - Add the "coin_id" column in the hover_cols parameter to identify the cryptocurrency represented by each data point.
 - Answer the following question:
   - What is the impact of using fewer features to cluster the data using K-Means?
+
+Results and answers are within the code.
+Enjoy :)
